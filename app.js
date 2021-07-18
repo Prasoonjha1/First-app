@@ -5,6 +5,6 @@ server.on('connection', (socket)=>{
     console.log("New Connection");
 });
 
-server.listen(url='http//www.google.com');
+server.listen(8080);
 
 console.log('Listen');
